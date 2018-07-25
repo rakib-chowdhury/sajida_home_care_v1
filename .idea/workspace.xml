@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60d9a231-ce22-4081-8b48-c4cf04117070" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-167">
+              <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consultant.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Consultant.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="400" column="30" selection-start-line="400" selection-start-column="30" selection-end-line="400" selection-end-column="30" />
+              <folding>
+                <element signature="n#add_consultant#0;n#Consultant#0;n#!!top" />
+                <element signature="n#edit_consultant_info#0;n#Consultant#0;n#!!top" />
+                <element signature="n#consultant_info_edit_post#0;n#Consultant#0;n#!!top" />
+                <element signature="n#edit_consultant_type#0;n#Consultant#0;n#!!top" />
+                <element signature="n#manage_consultants#0;n#Consultant#0;n#!!top" />
+                <element signature="n#manage_consultant_type#0;n#Consultant#0;n#!!top" />
+                <element signature="n#add_consultant_type#0;n#Consultant#0;n#!!top" />
+                <element signature="n#consultant_info_add_post#0;n#Consultant#0;n#!!top" />
+                <element signature="n#consultant_type_add_post#0;n#Consultant#0;n#!!top" />
+                <element signature="n#consultancy_type_edit_post#0;n#Consultant#0;n#!!top" />
+                <element signature="n#change_consultant_type_status#0;n#Consultant#0;n#!!top" />
+                <element signature="n#change_consultant_status#0;n#Consultant#0;n#!!top" />
+                <element signature="n#fetch_events#0;n#Consultant#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show_profile.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/consultant/show_profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="339" column="34" lean-forward="true" selection-start-line="339" selection-start-column="34" selection-end-line="339" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Admin_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="96" column="5" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="96" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Caregiver.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Caregiver.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="534" column="30" lean-forward="true" selection-start-line="534" selection-start-column="12" selection-end-line="534" selection-end-column="30" />
+              <folding>
+                <element signature="n#add_caregiver#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#manage_caregiver#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#caregiver_add_post#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#edit_caregiver#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#caregiver_edit_post#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#fetch_history#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#get_chart_data#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#change_status#0;n#Caregiver#0;n#!!top" />
+                <element signature="n#reset_password#0;n#Caregiver#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consultant_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Consultant_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="202" column="157" selection-start-line="202" selection-start-column="157" selection-end-line="202" selection-end-column="157" />
+              <folding>
+                <element signature="n#getAllRecords#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#insert_ret#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#getWhere#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#insert#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#updateCond#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#update_function#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#count_data#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#get_consultant#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#get_all_consultants#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#getWhereConsultant#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#check_consultancy_type#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#get_consultant_type_status#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#get_consultant_status#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#change_status#0;n#Consultant_model#0;n#!!top" />
+                <element signature="n#get_served_appointments#0;n#Consultant_model#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$new_date</find>
+      <find>get_id</find>
+      <find>caregiver</find>
+      <find>tbl_consultant_user</find>
+      <find>consultant_type</find>
+      <find>get_s</find>
+      <find>update_function</find>
+      <find>payment type</find>
+      <find>type_check</find>
+      <find>payment_type</find>
+      <find>bank_div</find>
+      <find>are</find>
+      <find>editModal_</find>
+      <find>table-5</find>
+      <find>edit_modal_show</find>
+      <find>e_starting_date</find>
+      <find>edit_modal_check</find>
+      <find>s_month</find>
+      <find>check_data</find>
+      <find>get_status</find>
+      <find>get_all_consultants</find>
+      <find>tbl_consultant_type_consultant_type_id</find>
+      <find>getWhereConsultant</find>
+      <find>get_rating</find>
+      <find>get_selected_consultant_schedule</find>
+      <find>fetch</find>
+      <find>get_caregiver_wise_events</find>
+      <find>get_schedule</find>
+      <find>sum</find>
+      <find>get_financial_info</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/caregiver_profile/show_profile.php" />
+        <option value="$PROJECT_DIR$/application/models/Home_model.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/patient/add_patient.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/patient/edit_patient.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/patient_profile/show_profile.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/caregiver/add_caregiver.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/caregiver/edit_caregiver.php" />
+        <option value="$PROJECT_DIR$/application/models/Schedule_model.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/admin_user/manage_users.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/caregiver/manage_caregiver.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/caregiver_events/show_events.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/patient/manage_patients.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/promotional_items/manage_promotional_item.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/promotional_items/track_promotional_item.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/schedule/manage_schedule.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/settings/area_code/manage_area_code.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/settings/bank_info/manage_bank.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/settings/consultant_info/manage_consultant_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/settings/mobile_banking_info/manage_method.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/settings/referral_info/manage_referral_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/top_header.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Home.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Admin_user.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Promotional_item.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Settings.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Patient.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Home_care_lib.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/settings/consultant_type/edit_consultant_type.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/settings/consultant_type/manage_consultant_type.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/schedule/add_schedule.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/home/view_home.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/master.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/consultant/add_consultant_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/consultant/edit_consultant_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/consultant/manage_consultant_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/schedule/add_consultant.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Schedule.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/consultant_events/show_events.php" />
+        <option value="$PROJECT_DIR$/application/models/Admin_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Caregiver.php" />
+        <option value="$PROJECT_DIR$/application/models/Consultant_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Consultant.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/consultant/show_profile.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/asset/admin/js/codemirror/package.json" />
+      <path value="$PROJECT_DIR$/asset/admin/js/daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/asset/admin/js/select2/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="libraries" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="consultant" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="consultant_events" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="schedule" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="homecare_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homecare_old" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="asset" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sf-home-care-v2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\homecare_old\application\views\admin\consultant" />
+      <recent name="C:\xampp\htdocs\homecare_old\application\views\admin\consultant_events" />
+      <recent name="G:\xampp\htdocs\homecare_old\application\views\admin\consultant" />
+      <recent name="G:\xampp\htdocs\homecare_old\application\models" />
+      <recent name="G:\xampp\htdocs\homecare_old\application\controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\xampp\htdocs\homecare_old\asset\admin\js\downloaded" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d9a231-ce22-4081-8b48-c4cf04117070" name="Default" comment="" />
+      <created>1524726597660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524726597660</updated>
+      <workItem from="1524726599159" duration="15489000" />
+      <workItem from="1526189230630" duration="4373000" />
+      <workItem from="1526193796606" duration="23226000" />
+      <workItem from="1526272874739" duration="6908000" />
+      <workItem from="1526284595169" duration="14244000" />
+      <workItem from="1526306137435" duration="7969000" />
+      <workItem from="1526362173227" duration="18096000" />
+      <workItem from="1526384231913" duration="3225000" />
+      <workItem from="1526446783737" duration="147000" />
+      <workItem from="1526450280670" duration="14016000" />
+      <workItem from="1526532799638" duration="12960000" />
+      <workItem from="1526792850243" duration="38000" />
+      <workItem from="1526793746697" duration="9716000" />
+      <workItem from="1526877889934" duration="17151000" />
+      <workItem from="1526969367383" duration="14269000" />
+      <workItem from="1527010294871" duration="8290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="170117000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/admin/caregiver/edit_caregiver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="453" column="87" selection-start-line="453" selection-start-column="87" selection-end-line="453" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/home/view_home_old.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Home_old.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/admin_user/manage_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3124">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/caregiver/manage_caregiver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/caregiver_profile/show_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4576">
+          <caret line="664" column="67" selection-start-line="664" selection-start-column="53" selection-end-line="664" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/patient/manage_patients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/promotional_items/manage_promotional_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="49" />
+          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="49" />
+          <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/promotional_items/track_promotional_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3322">
+          <caret line="151" column="102" selection-start-line="151" selection-start-column="102" selection-end-line="151" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/settings/area_code/manage_area_code.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="64" column="90" selection-start-line="64" selection-start-column="90" selection-end-line="64" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/settings/bank_info/manage_bank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="64" column="90" selection-start-line="64" selection-start-column="90" selection-end-line="64" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/schedule/manage_schedule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/settings/referral_info/manage_referral_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/settings/mobile_banking_info/manage_method.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="64" column="90" selection-start-line="64" selection-start-column="90" selection-end-line="64" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/top_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="424" column="43" selection-start-line="424" selection-start-column="43" selection-end-line="424" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Admin_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Common.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="102" column="83" selection-start-line="102" selection-start-column="83" selection-end-line="102" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/patient_profile/show_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="353" column="44" selection-start-line="353" selection-start-column="36" selection-end-line="353" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="152" column="27" selection-start-line="152" selection-start-column="27" selection-end-line="152" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Home_care_lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="155" column="5" selection-start-line="155" selection-start-column="5" selection-end-line="155" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="142" column="80" selection-start-line="142" selection-start-column="65" selection-end-line="142" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/settings/consultant_type/edit_consultant_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="58" column="67" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/settings/consultant_type/add_consultant_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="63" column="27" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="63" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Promotional_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="188" column="5" lean-forward="true" selection-start-line="170" selection-start-column="4" selection-end-line="188" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Promotional_item_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/settings/consultant_type/manage_consultant_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="82" column="46" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/patient/add_patient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="172" column="88" selection-start-line="172" selection-start-column="85" selection-end-line="172" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/schedule/add_schedule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="317" column="50" selection-start-line="317" selection-start-column="50" selection-end-line="317" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/home/view_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2013">
+          <caret line="369" column="76" selection-start-line="369" selection-start-column="76" selection-end-line="369" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="410" column="32" lean-forward="true" selection-start-line="410" selection-start-column="32" selection-end-line="410" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Patient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="222" column="9" lean-forward="true" selection-start-line="218" selection-start-column="10" selection-end-line="222" selection-end-column="9" />
+          <folding>
+            <element signature="n#add_patient#0;n#Patient#0;n#!!top" />
+            <element signature="n#manage_patients#0;n#Patient#0;n#!!top" />
+            <element signature="n#patient_add_post#0;n#Patient#0;n#!!top" />
+            <element signature="n#patient_edit_post#0;n#Patient#0;n#!!top" />
+            <element signature="n#show_profile#0;n#Patient#0;n#!!top" />
+            <element signature="n#fetch_history#0;n#Patient#0;n#!!top" />
+            <element signature="n#millisecond_to_datetime#0;n#Patient#0;n#!!top" />
+            <element signature="n#millisecond_to_date#0;n#Patient#0;n#!!top" />
+            <element signature="n#millisecond_to_full_time#0;n#Patient#0;n#!!top" />
+            <element signature="e#32132#35996#0#PHP" />
+            <element signature="n#get_chart_data#0;n#Patient#0;n#!!top" />
+            <element signature="n#change_status#0;n#Patient#0;n#!!top" />
+            <element signature="n#reset_password#0;n#Patient#0;n#!!top" />
+            <element signature="n#history_add_post#0;n#Patient#0;n#!!top" />
+            <element signature="n#delete_history#0;n#Patient#0;n#!!top" />
+            <element signature="n#history_edit_post#0;n#Patient#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/caregiver/add_caregiver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="733" column="11" lean-forward="true" selection-start-line="727" selection-start-column="8" selection-end-line="733" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/consultant/add_consultant_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="243" column="11" lean-forward="true" selection-start-line="227" selection-start-column="8" selection-end-line="243" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/consultant/edit_consultant_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="94" column="72" selection-start-line="94" selection-start-column="72" selection-end-line="94" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/consultant/show_profile_old.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/consultant/manage_consultant_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="83" column="143" selection-start-line="83" selection-start-column="143" selection-end-line="83" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/schedule/add_consultant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="113" column="47" selection-start-line="113" selection-start-column="47" selection-end-line="113" selection-end-column="47" />
+          <folding>
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#!!top" />
+            <element signature="n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/consultant_events/show_events_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Schedule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="446" column="4" selection-start-line="446" selection-start-column="4" selection-end-line="523" selection-end-column="5" />
+          <folding>
+            <element signature="n#manage_schedule#0;n#Schedule#0;n#!!top" />
+            <element signature="n#add_schedule#0;n#Schedule#0;n#!!top" />
+            <element signature="n#chk_modal#0;n#Schedule#0;n#!!top" />
+            <element signature="n#get_day_name#0;n#Schedule#0;n#!!top" />
+            <element signature="n#get_p_c#0;n#Schedule#0;n#!!top" />
+            <element signature="e#9082#9120#0#PHP" />
+            <element signature="e#9554#9609#0#PHP" />
+            <element signature="n#schedule_add_post#0;n#Schedule#0;n#!!top" />
+            <element signature="n#schedule_edit_post#0;n#Schedule#0;n#!!top" />
+            <element signature="n#check_cg_availability#0;n#Schedule#0;n#!!top" />
+            <element signature="n#show_caregiver_events#0;n#Schedule#0;n#!!top" />
+            <element signature="n#fetch_events#0;n#Schedule#0;n#!!top" />
+            <element signature="n#get_selected_schedule#0;n#Schedule#0;n#!!top" />
+            <element signature="n#clocking_add_post#0;n#Schedule#0;n#!!top" />
+            <element signature="n#add_consultant#0;n#Schedule#0;n#!!top" />
+            <element signature="n#con_clocking_add_post#0;n#Schedule#0;n#!!top" />
+            <element signature="n#con_schedule_add_post#0;n#Schedule#0;n#!!top" />
+            <element signature="n#check_con_timing#0;n#Schedule#0;n#!!top" />
+            <element signature="n#con_schedule_edit_post#0;n#Schedule#0;n#!!top" />
+            <element signature="n#con_schedule_delete#0;n#Schedule#0;n#!!top" />
+            <element signature="n#schedule_delete#0;n#Schedule#0;n#!!top" />
+            <element signature="n#show_consultant_events#0;n#Schedule#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/caregiver_events/show_events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="736" column="9" lean-forward="true" selection-start-line="716" selection-start-column="8" selection-end-line="736" selection-end-column="9" />
+          <folding>
+            <element signature="n#div#1;n#div#3;n#div#0;n#!!top" />
+            <element signature="n#div#2;n#div#3;n#div#0;n#!!top" />
+            <element signature="e#15602#34329#0#HTML" />
+            <element signature="e#34375#34651#0#HTML" />
+            <element signature="e#34746#37528#0#HTML" />
+            <element signature="e#37590#37969#0#HTML" />
+            <element signature="e#38035#38410#0#HTML" />
+            <element signature="e#38446#39832#0#HTML" />
+            <element signature="e#39868#41224#0#HTML" />
+            <element signature="e#41258#45270#0#HTML" />
+            <element signature="e#45305#46032#0#HTML" />
+            <element signature="e#46088#46807#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/consultant_events/show_events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="163" column="35" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
+          <folding>
+            <element signature="e#19885#35048#0#HTML" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#8;n#!!top" expanded="true" />
+            <element signature="e#35093#35427#0#HTML" />
+            <element signature="e#35521#38490#0#HTML" />
+            <element signature="e#38551#38930#0#HTML" />
+            <element signature="e#38995#39370#0#HTML" />
+            <element signature="e#39405#40786#0#HTML" />
+            <element signature="e#40821#42171#0#HTML" />
+            <element signature="e#42204#45871#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Schedule_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Home_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Caregiver_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="164" column="5" lean-forward="true" selection-start-line="156" selection-start-column="4" selection-end-line="164" selection-end-column="5" />
+          <folding>
+            <element signature="n#getAllRecords#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#get_caregivers_new#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#count_caregiver#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#insert_ret#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#getWhere#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#insert#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#getAllCaregiver#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#editCaregiver#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#getCaregiverSalary#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#getEmergencyContact#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#getFamilyContact#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#get_caregiver_gender#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#updateCond#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#update_function#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#delete_availability#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#updateCaregiverAll#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#get_rating#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#get_only_rating#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#get_financial_info#0;n#Caregiver_model#0;n#!!top" />
+            <element signature="n#check_caregiver#0;n#Caregiver_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Admin_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="96" column="5" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="96" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Consultant_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="202" column="157" selection-start-line="202" selection-start-column="157" selection-end-line="202" selection-end-column="157" />
+          <folding>
+            <element signature="n#getAllRecords#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#insert_ret#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#getWhere#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#insert#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#updateCond#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#update_function#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#count_data#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#get_consultant#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#get_all_consultants#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#getWhereConsultant#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#check_consultancy_type#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#get_consultant_type_status#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#get_consultant_status#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#change_status#0;n#Consultant_model#0;n#!!top" />
+            <element signature="n#get_served_appointments#0;n#Consultant_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Caregiver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="534" column="30" lean-forward="true" selection-start-line="534" selection-start-column="12" selection-end-line="534" selection-end-column="30" />
+          <folding>
+            <element signature="n#add_caregiver#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#manage_caregiver#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#caregiver_add_post#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#edit_caregiver#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#caregiver_edit_post#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#fetch_history#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#get_chart_data#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#change_status#0;n#Caregiver#0;n#!!top" />
+            <element signature="n#reset_password#0;n#Caregiver#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Consultant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="400" column="30" selection-start-line="400" selection-start-column="30" selection-end-line="400" selection-end-column="30" />
+          <folding>
+            <element signature="n#add_consultant#0;n#Consultant#0;n#!!top" />
+            <element signature="n#edit_consultant_info#0;n#Consultant#0;n#!!top" />
+            <element signature="n#consultant_info_edit_post#0;n#Consultant#0;n#!!top" />
+            <element signature="n#edit_consultant_type#0;n#Consultant#0;n#!!top" />
+            <element signature="n#manage_consultants#0;n#Consultant#0;n#!!top" />
+            <element signature="n#manage_consultant_type#0;n#Consultant#0;n#!!top" />
+            <element signature="n#add_consultant_type#0;n#Consultant#0;n#!!top" />
+            <element signature="n#consultant_info_add_post#0;n#Consultant#0;n#!!top" />
+            <element signature="n#consultant_type_add_post#0;n#Consultant#0;n#!!top" />
+            <element signature="n#consultancy_type_edit_post#0;n#Consultant#0;n#!!top" />
+            <element signature="n#change_consultant_type_status#0;n#Consultant#0;n#!!top" />
+            <element signature="n#change_consultant_status#0;n#Consultant#0;n#!!top" />
+            <element signature="n#fetch_events#0;n#Consultant#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/consultant/show_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="339" column="34" lean-forward="true" selection-start-line="339" selection-start-column="34" selection-end-line="339" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
